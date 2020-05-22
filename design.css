@@ -1,0 +1,209 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 19, 2017, 3:01:03 PM
+    Author     : simon
+*/
+#head
+{
+    display: block;
+    height:70px;
+    background-color: #2A3245;
+    padding-left: 30px;
+}
+
+#route
+{
+    display: block;
+    height:100px;
+    background-color: #2A3245;
+    padding-left: 30px;
+}
+
+#routehead
+{
+    background-image: url("images/timeline_1.png");
+    width:602px;
+    height:70px;
+    display:inline-block;
+    margin-left:306px;
+    padding-left: 50px;
+    margin-top: -10px;
+    overflow-x: hidden;
+}
+
+#wetter 
+{
+    background-image: url("images/Wetter.png");
+    width: 163px;
+    height: 80px;
+    display: inline-block;
+    margin-left: 360px;
+    margin-top: -10px;
+}
+
+.deutsche-bahn {
+    height: 3.22%;
+    width: 12.15%;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 33px;
+    text-align: center;
+}
+
+.richtung-hauptbahn {
+	height: 44px;
+	width: 320px;
+	color: #C1C7D4;
+	font-family: "Open Sans";
+	font-size: 24px;
+	line-height: 33px;
+}
+
+#main
+{   
+    padding-left:105px;
+    margin: 0px auto 0px auto !important;
+}
+
+#navibar
+{
+    text-align: left;   
+    padding-top:5px;
+}
+
+#videoFrame
+{
+    
+}
+
+#play
+{
+    width: 114px;
+    height: 20px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;   
+    cursor:pointer;
+    overflow: hidden;
+}
+#tweets
+{
+    overflow-x: hidden;
+    width: 1644px;
+    display: inline-block;
+    border: 1px solid grey;
+    border-left:5px solid grey;
+}
+
+#tweetsInner
+{
+    overflow-x: hidden;
+    width: 100000px;
+    height: 260px;
+    display: inline-block;
+}
+
+#videoDiv
+{
+    text-align: left;
+    width: 854px;
+    height:480px;
+}
+
+#map-canvas
+{
+    width: 780px;
+    height:490px;
+}
+
+
+.tweetFeed
+{
+    margin-top:15px;
+    padding: 20px;
+    text-align:left;
+    display: block;
+    height:100px;
+    width:300px;
+    float: left;    
+}
+
+#preTweet
+{
+    height: 40px;
+    margin-top:10px;
+    
+}
+
+#tweetLbl
+{
+    font-size: 18px;
+    color: grey;
+    display: inline-block;
+    
+}
+
+#tweetImg
+{
+    background-image: url("images/tweets.png");
+    background-repeat: no-repeat;
+    display: inline-block;
+    width:30px;
+    margin-top:5px;
+    margin-left: 5px;
+}
+
+.authorimage{
+    width:47px;
+    height:47px;
+    display: inline-block;
+    float:left;
+}
+.cleaner 
+{
+    clear:both;
+}
+
+.innerCont
+{
+    display: block;
+    height: 300px;
+    float:left;
+    margin-right:3px;
+    border: 1px solid #E1E6EB;
+    padding: 10px;
+}
+
+.author
+{
+    display:inline-block !important;
+    margin-left: 10px;
+    height: 22px;
+    width: 47px;
+    color: #2A3245;
+    font-family: "Open Sans";
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 13px;
+
+}
+
+.text
+{
+    height: 47px;
+    width: 250px;
+    color: grey;
+    font-family: "Open Sans";
+    font-size: 18px;
+    line-height: 22px;
+    padding-top: 10px;
+    clear:both;
+}
