@@ -1,6 +1,5 @@
 # hypermotion_hackathon_example
-
-open index.html in browser to the pitched idea that won Hypermotion Hackathon.
+click https://github.com/relue/hypermotion_hackathon_example/master/index.html to see the pitched idea that won Hypermotion Hackathon.
 
 See also https://www.youtube.com/watch?v=FWokFDvvGYc
  
